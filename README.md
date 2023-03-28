@@ -4,7 +4,7 @@ Whilst analysing Autism dataset, I stumbled onto an alternative way in Preproces
 
 My curiosity brought me to play around the method, and lo and behold, it works as the common approach <br>
 
-##Steps in the alternative approach##
+## Steps in the alternative approach
 
 * dataset
 * -> X,  y
@@ -13,7 +13,7 @@ My curiosity brought me to play around the method, and lo and behold, it works a
 * -> model.fit(X_train, y_train)
 * -> model.predict(X_test) 
 
-##Steps in the common approach##
+## Steps in the common approach
 
 * dataset
 * -> X,y
